@@ -11,7 +11,7 @@
 | ------ | ---------------------------------------------- |
 | 최창준 | [@changjun6518](https://github.com/changjun6518) |
 | 이주암 | [@](https://github.com/) |
-| 김주웅 | [@](https://github.com/) |
+| 김주웅 | [@JuwoongKim](https://github.com/JuwoongKim) |
 
 
 
