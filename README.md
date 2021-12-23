@@ -10,7 +10,7 @@
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 최창준 | [@changjun6518](https://github.com/changjun6518) |
-| 이주암 | [@](https://github.com/) |
+| 이주암 | [@ja960508](https://github.com/) |
 | 김주웅 | [@](https://github.com/) |
 
 
