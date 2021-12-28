@@ -19,3 +19,12 @@
 학습주제는 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)을 참고했습니다.  
 스터디 진행은 [Songwonseok](https://github.com/Songwonseok/CS-Study)을 참고했습니다.  
 CS 질문은 [SSAFY-CS-STUDY](https://github.com/SSAFY-CS-STUDY/Tech_interview)을 참고했습니다.
+
+## 📁 질문모음
+|**과목명**|**질문보기**|기간|
+|---|---|---|
+|**Network**|[📃질문보기](01.Network/README.md)|2021.12.25 ~ |
+|**Database**|[📃질문보기]()||
+|**Operating System**|[📃질문보기]()||
+|**Java**|[📃질문보기]()||
+|**Spring**|[📃질문보기]()||
