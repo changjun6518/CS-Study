@@ -8,3 +8,4 @@
 |21.12.29|HTTP/HTTPS|[✅보러가기](21.12.29.md)|
 |21.12.30|DNS & Load Balancer|[✅보러가기](21.12.30.md)|
 |22.01.01|WEB(uri & RESTful & Ajax & CORS)|[✅보러가기](22.01.01.md)|
+|22.01.02|Cookie & Session & JWT|[✅보러가기](22.01.02.md)|
