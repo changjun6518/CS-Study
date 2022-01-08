@@ -1,4 +1,4 @@
-# Part 04.Java
+# Part Java
 
 Made by. [ccj](ccj/)
 
