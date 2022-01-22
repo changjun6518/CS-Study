@@ -13,7 +13,7 @@
 | 최창준 | [@changjun6518](https://github.com/changjun6518) |
 | 이주암 | [@ja960508](https://github.com/)                 |
 | 김주웅 | [@JuwoongKim](https://github.com/JuwoongKim) |
-
+| 윤태영 | [@taeyoung02](https://github.com/taeyoung02) |
 ## 📖학습 자료
 
 학습주제는 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)을 참고했습니다.  
