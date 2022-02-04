@@ -25,7 +25,7 @@ CS 질문은 [SSAFY-CS-STUDY](https://github.com/SSAFY-CS-STUDY/Tech_interview)�
 |---|---|---|
 |**Network**|[📃질문보기](01.Network/README.md)|2021.12.25 ~ 2022.01.03|
 |**Database**|[📃질문보기](02.Database/README.md)|2022.01.04 ~ 2022.01.10|
-|**Operating System**|[📃질문보기](03.Operating System/README.md)|2022.01.11 ~ |
+|**Operating System**|[📃질문보기](03.Operating System/README.md)|2022.01.11 ~ 2022.01.27|
 |**Java**|[📃질문보기]()||
 |**Spring**|[📃질문보기]()||
 
